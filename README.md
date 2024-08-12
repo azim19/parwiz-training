@@ -1,2 +1,2 @@
 # Parwiz-trainings
-Start from basic
+Start from basic to advance
