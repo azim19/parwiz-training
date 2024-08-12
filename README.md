@@ -1,2 +1,2 @@
-# parwiz-training
-start from basic
+# Parwiz-trainings
+Start from basic
